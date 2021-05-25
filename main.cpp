@@ -52,84 +52,86 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: amp
+//  action 1: distorts sound
+amp.distort();
+//  action 2: mutes sound
+amp.mute();
+//  action 3: adds chorus
+amp.addChorus();
 //  2)
-//  Noun:
-//  action 1:
+//  Noun: cloud
+//  action 1: creates rain
+cloud.rain();
 
-//  action 2:
-
-//  action 3:
- 
+//  action 2: creates snow
+cloud.snow();
+//  action 3: evaporates
+cloud.evaporate(); 
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: disc golfer
+//  action 1: throws disc
+discGolfer.throw();
+//  action 2: runs
+discGolfer.run();
+//  action 3: putts
+discGolfer.putt();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: guitar player
+//  action 1: plays guitar
+guitarPlayer.playGuitar();
+//  action 2: shreds
+guitarPlayer.shred();
+//  action 3: loses pick
+guitarPlayer.losePick();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: boss
+//  action 1: hires person
+boss.hirePerson();
+//  action 2: fires person
+boss.firePerson();
+//  action 3: quits job
+boss.quitJob();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: bird
+//  action 1: caws
+bird.caws();
+//  action 2: chirps
+bird.chirps();
+//  action 3: fly
+bird.fly();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: climate change activist
+//  action 1: invites people to a rally
+climateChangeActivist.inviteToRally();
+//  action 2: sends email to local representative
+climateChangeActivist.sendEmail();
+//  action 3: creates event on facebook
+climateChangeActivist.createEvent();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: sound person
+//  action 1: arrives late
+soundPerson.arriveLate();
+//  action 2: complain
+soundPerson.complain();
+//  action 3: mixes sound
+soundPerson.mix();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: singer
+//  action 1: sings
+singer.sing();
+//  action 2: smokes
+singer.smoke();
+//  action 3: doesn't carry amps
+singer.doNotCarryAmp();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: medieval warrior
+//  action 1: beheads person
+medievalWarrior.beheadPerson();
+//  action 2: pledge loyalty
+medievalWarrior.pledgeLoyalty();
+//  action 3: honor anchestors
+medievalWarrior.honorAnchestors();
  
 
 
