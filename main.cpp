@@ -58,7 +58,7 @@ amp.distort();
 //  action 2: mutes sound
 amp.mute();
 //  action 3: adds chorus
- amp.addChorus();
+amp.addChorus();
 //  2)
 //  Noun: cloud
 //  action 1: creates rain
@@ -75,7 +75,7 @@ discGolfer.throw();
 //  action 2: runs
 discGolfer.run();
 //  action 3: putts
- discGolfer.putt();
+discGolfer.putt();
 //  4)
 //  Noun: guitar player
 //  action 1: plays guitar
@@ -83,7 +83,7 @@ guitarPlayer.playGuitar();
 //  action 2: shreds
 guitarPlayer.shred();
 //  action 3: loses pick
- guitarPlayer.losePick();
+guitarPlayer.losePick();
 //  5)
 //  Noun: boss
 //  action 1: hires person
@@ -91,7 +91,7 @@ boss.hirePerson();
 //  action 2: fires person
 boss.firePerson();
 //  action 3: quits job
- boss.quitJob();
+boss.quitJob();
 //  6)
 //  Noun: bird
 //  action 1: caws
@@ -99,7 +99,7 @@ bird.caws();
 //  action 2: chirps
 bird.chirps();
 //  action 3: fly
- bird.fly();
+bird.fly();
 //  7)
 //  Noun: activist
 //  action 1: rallies
@@ -107,7 +107,7 @@ activist.rally();
 //  action 2: blocks traffic
 activist.blockTraffic();
 //  action 3: start revolution
- activist.startRevolution();
+activist.startRevolution();
 //  8)
 //  Noun: sound person
 //  action 1: arrives late
@@ -115,7 +115,7 @@ soundPerson.arriveLate();
 //  action 2: complain
 soundPerson.complain();
 //  action 3: mixes sound
- soundPerson.mix();
+soundPerson.mix();
 //  9)
 //  Noun: singer
 //  action 1: sings
@@ -123,7 +123,7 @@ singer.sing();
 //  action 2: smokes
 singer.smoke();
 //  action 3: doesn't carry amps
- singer.doNotCarryAmp();
+singer.doNotCarryAmp();
 //  10)
 //  Noun: medieval warrior
 //  action 1: beheads person
