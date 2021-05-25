@@ -101,13 +101,13 @@ bird.chirps();
 //  action 3: fly
 bird.fly();
 //  7)
-//  Noun: activist
-//  action 1: rallies
-activist.rally();
-//  action 2: blocks traffic
-activist.blockTraffic();
-//  action 3: start revolution
-activist.startRevolution();
+//  Noun: climate change activist
+//  action 1: invites people to a rally
+climateChangeActivist.inviteToRally();
+//  action 2: sends email to local representative
+climateChangeActivist.sendEmail();
+//  action 3: creates event on facebook
+climateChangeActivist.createEvent();
 //  8)
 //  Noun: sound person
 //  action 1: arrives late
